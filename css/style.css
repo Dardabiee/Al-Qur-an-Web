@@ -1,0 +1,7 @@
+.card-surat{
+    cursor: pointer;
+    transition: 0.8s;
+}
+.card-surat:hover{
+    background-color:rgba(170, 170, 170, 0.524);
+}
